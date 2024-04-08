@@ -1,1 +1,2 @@
-a Nonebot plugin to auto get test scores
+a Nonebot plugin to auto get exam results
+
